@@ -19,6 +19,12 @@ This project is a responsive multi-page website developed for **Raytouch Renewab
 -JavaScript
 
  >Project Structure
+  >>>project-folder/
+   ├── index.html
+   ├── residential.html
+   ├── commercial.html
+   ├── industrial.html
+   ├── assets/
 
 * `index.html` – Main homepage
 * `residential.html` – Residential page
